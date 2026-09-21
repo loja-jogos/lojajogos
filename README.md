@@ -1,1 +1,2 @@
-# lojajogos
+# loja de jogos
+O sistema tem como objetivo gerenciar uma loja de jogos para computador, permitindo o cadastro e a comercialização de jogos, o gerenciamento de clientes e funcionários, o registro de vendas e o controle das empresas desenvolvedoras e plataformas. Os jogos cadastrados possuem as seguintes informações: título, gênero, data de lançamento, empresa desenvolvedora e preço. A partir do levantamento realizado, foram identificadas as seguintes entidades principais: Loja, funcionário, jogo, desenvolvedora, venda, cliente, DLC, estoque 
